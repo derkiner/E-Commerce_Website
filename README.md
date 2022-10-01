@@ -15,7 +15,7 @@ FEATURES & METHODS:
 
 
 ```ts
-HOW TO OPERATE THE APP:
+HOW TO RUN THE APP:
 
 - Install dependencies npm install
 - Serve on localhost: 3000 => npm start
