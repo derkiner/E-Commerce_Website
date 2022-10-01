@@ -1,4 +1,4 @@
-# React E-commerce Project
+# React E-Commerce Project
 
 
 ```ts
