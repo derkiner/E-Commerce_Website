@@ -25,7 +25,7 @@ HOW TO OPERATE THE APP:
 
 ```ts
 ADDITIONAL SOURCES:
-- Free Pics (https://www.pexels.com/) 
+- Visuals (https://www.pexels.com/) 
 ```
 
 <hr>
