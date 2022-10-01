@@ -1,15 +1,6 @@
 # React E-commerce Project
 
 
-<hr>
-
-## LIVE DEMO: 
-
-https://e-commerce-fhbpvysp2-derkiner.vercel.app/
-
-<hr>
-
-
 ```ts
 
 FEATURES & METHODS:
@@ -36,6 +27,12 @@ HOW TO OPERATE THE APP:
 ADDITIONAL SOURCES:
 - Free Pics (https://www.pexels.com/) 
 ```
+
+<hr>
+
+## To see the live demo, click [here](https://e-commerce-fhbpvysp2-derkiner.vercel.app/).
+
+<hr>
 
 <hr>
 
