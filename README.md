@@ -30,7 +30,7 @@ ADDITIONAL SOURCES:
 
 <hr>
 
-*The demo version of the website is [here](https://e-commerce-fhbpvysp2-derkiner.vercel.app/).*
+*The demo version of the website is [here](https://e-commerce-agd7lp29d-derkiner.vercel.app/).*
 
 <hr>
 
