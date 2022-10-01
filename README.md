@@ -30,9 +30,6 @@ ADDITIONAL SOURCES:
 
 <hr>
 
-*Click [here](https://e-commerce-agd7lp29d-derkiner.vercel.app/) to see the demo version.*
-
-<hr>
 
 ## SNAPSHOTS: 
 ![image](https://user-images.githubusercontent.com/90147636/193416372-19482066-9d71-4fa4-8885-433c1f3630a1.png)
