@@ -34,8 +34,6 @@ ADDITIONAL SOURCES:
 
 <hr>
 
-<hr>
-
 ## SNAPSHOTS: 
 ![image](https://user-images.githubusercontent.com/90147636/193416372-19482066-9d71-4fa4-8885-433c1f3630a1.png)
 ![image](https://user-images.githubusercontent.com/90147636/193416392-60cff0c1-8478-436e-8090-505d77a075fe.png)
