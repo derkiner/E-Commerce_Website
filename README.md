@@ -9,7 +9,7 @@ FEATURES & METHODS:
 - React Hooks
 - Styled Components
 - Material UI
-- Backend (Node JS / Rest API with Mongo DB - in progress)
+- Back-End (Node JS + Rest API with Mongo DB) - in progress
 
 ```
 
